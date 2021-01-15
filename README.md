@@ -14,7 +14,7 @@ apply shecan nameservers
 beshcan on
 ``
 
-aplly default nameservers
+apply default nameservers
 
 ``
 beshcan off
