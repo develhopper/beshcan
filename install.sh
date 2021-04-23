@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "installing"
 
-mkdir ~/.beshecan ~/.local/bin
+mkdir ~/.beshcan ~/.local/bin
 cp ./beshcan.sh ~/.local/bin/beshcan
-cp ./conf/*.conf ~/.beshcan/
+cp ./conf/*.conf ~/.beshcan
 
-echo "add ~/.local/bin to your PATH"
+echo "Info: please add ~/.local/bin to your PATH"
